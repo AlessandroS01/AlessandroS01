@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Alessandro Seghini 
 
+
 ### 👨‍💻 About Me
 
 * 🎓 **Background:** M.Sc. in Artificial Intelligence Engineering from **Universität Passau** and B.Sc. in Computer Science from **Università Politecnica delle Marche**.
